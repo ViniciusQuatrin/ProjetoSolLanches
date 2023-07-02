@@ -4,7 +4,7 @@
         <div class="flex lg:flex-1">
           <a href="#" class="-m-1.5 p-1.5">
             <span class="sr-only">Sol Burguers</span>
-            <img class="h-9 w-auto" src="src\imgs\burgaoDOculosOficial.png" alt="" />
+            <img class="h-9 w-auto" src="../imgs/burgaoDOculosOficial.png" alt="" />
           </a>
         </div>
         <div class="flex lg:hidden">
@@ -35,7 +35,7 @@
           <div class="flex items-center justify-between">
             <a href="#" class="-m-1.5 p-1.5">
               <span class="sr-only">Sol Burgues</span>
-              <img class="h-9 w-auto" src="src/imgs/burgaoDOculosOficial.png" alt="um hamburguer com oculos de sol" />
+              <img class="h-9 w-auto" src="../imgs/burgaoDOculosOficial.png" alt="um hamburguer com oculos de sol" />
             </a>
             <button type="button" class="-m-2.5 rounded-md p-2.5 text-gray-700" @click="mobileMenuOpen = false">
               <span class="sr-only">Fechar menu</span>
